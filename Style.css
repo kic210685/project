@@ -1,0 +1,305 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Navbar-Brand{
+    font-size:  2rem;
+    color: black;
+    text-decoration: none;
+    font-family:  "Playwrite DE VA Guides", cursive;
+    font-weight: 900;
+    font-style: normal;
+}
+.Navbar-Brand :hover{
+    color: black;
+}
+.nav-link{
+      margin-right:  10px;
+      margin-left:  10px;
+      color: black;
+      text-transform: uppercase;
+}
+.nav-link :hover{
+    color: black;
+}
+.search{
+     height:  40px;
+     width:  80%;
+     border-radius:  60px;
+     outline:  none;
+     border:  2px solid rgb(248,26,92);
+     margin-right:  -35px;
+}
+.btn0{
+      height:  40px;
+      width:  40%;
+      outline:  none;
+      border:  none;
+      background: rgb(248,26,92);
+      color:  white;
+      font-weight: 700;
+      border-radius:  60px;
+}
+.main{
+         background:  url(lunch\ food.avif) no-repeat;
+         background-size:  cover;
+         height:  100vh;
+         width:  100%;
+         background-position:  50% 50%;
+
+}
+.main h1{
+      font-size: 4rem;
+      font-weight: 700;
+}
+.btn-1{
+      height:  45px;
+      width:  35%;
+      border:  none;
+      outline:  none;
+      background-color:  rgb(248,26,92) ;
+      color:  white;
+      font-weight: 700;
+      border-radius:  60px;
+}
+.btn-s{
+    height:  45px;
+    width:  40%;
+    outline:  none;
+    background-color:  rgb(248,26,92) ;
+    color:  white;
+    font-weight: 700;
+    border-radius:  60px;
+    margin-top:  20px;
+    margin-left:  150%;
+}
+.btn-s :active{
+    background-color:  white;
+}
+.btn-2{
+    height:  45px;
+    width:  18%;
+    outline:  none;
+    background-color:  rgb(248,26,92) ;
+    color:  white;
+    font-weight: 700;
+    border-radius:  60px;
+    margin-top:  30px;
+    margin-left:  30px;
+}
+.btn-2 :hover{
+    background-color:  rgb(244, 238, 239);
+    transition: 0.1s;
+}
+n
+.card-3{
+     border:  2px solid rgb(230, 229, 229);
+     width:  250px;
+     margin-left:  30px;
+}
+.card-3:hover{
+    box-shadow: 0px 7px 22px -5px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 7px 22px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 7px 22px -5px rgba(0,0,0,0.75);
+    transition: 0.5s;
+}
+.card-body{
+    border:  2px solid black;
+}
+.img-luid{
+       width:  100%;
+}
+.card-title{
+    color: rgb(55, 3, 103);
+    font-family:  "Playwrite TZ Guides", cursive;
+    font-size:  16px;
+}
+.col :hover{
+    box-shadow: -5px -5px 28px -9px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -5px -5px 28px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: -5px -5px 28px -9px rgba(0,0,0,0.75);
+    transition: 0.5s;
+}
+.card-body{
+    border:  none;
+}
+.card-text{
+    color: rgb(72, 41, 2);
+    font-family:  "Playwrite TZ Guides", cursive;
+    font-size:  20px;
+    box-shadow: none;
+}
+
+.h-1{
+       color: rgb(249, 172, 161);
+       font-family:  "Pacifico", cursive;
+
+}
+.col-log-4{
+      width:  200px;
+      height:  100px;
+      margin-left:  10%;
+      display: inline-flex;
+      margin-top:  120px;
+      
+}
+.h-e{
+     font-size:  15px;
+     font-family:  roboto, Helvetica, sans-serif;
+     padding-left:  40%;
+     padding-top:  12px;
+}
+.h-n{
+    font-size:  15px;
+    font-family:  roboto, Helvetica, sans-serif;
+    padding-left:  30%;
+    padding-top:  12px;
+}
+.main-container{
+       height:  250px;
+       width:  1300px;
+       display: inline-flex;
+       justify-content: center;
+       
+}
+.h-r{
+    font-size:  12px;
+    font-family:  roboto, Helvetica, sans-serif;
+    padding-left:  45%;
+    color:  rgb(103, 101, 101);
+}
+.h-l{
+    font-size:  15px;
+    font-family:  roboto, Helvetica, sans-serif;
+    padding-left:  30%;
+    padding-top:  12px;
+}
+.h-6{
+      padding-top:  40px;
+      padding-left:  5px;
+      font-size: 25px ;
+      font-family:"Pacifico", cursive ;
+      color: rgb(123, 99, 71);
+}
+.h-6 :focus{
+    color:  rgb(243, 61, 61);
+}
+.h-t{
+      font-weight: 700;
+      padding-top:  100px;
+}
+.h-s{
+    font-weight: 700;
+      padding-top:  100px;
+    
+}
+
+.cal-log-7 {
+    width:  900px;
+    margin-left:  120%;
+    margin-bottom:  50px;
+}
+.apple{
+      background: url(backgroung\ image.jpg) ;
+      background-size: cover;
+      height:  90vh;
+      width:  110%;
+      margin-top:  50px;
+}
+.font-weight-bold{
+    font-family: 'Lobster',cursive;
+}
+.h-6{
+     padding-left:  12px;
+     font-size:  16px;
+
+}
+.col-log-n{
+      margin-top:  5px;
+      width:  250px;
+}
+.btn{
+    border-radius:  10px;
+}
+.c-l{
+    width:  15%;
+    height:  10%;
+}
+.div-2{
+      margin-left:  5px;
+      margin-top:  5px;      
+}
+.form-control{
+     width:  200px;
+}
+.form-control-1{
+    width:  200px;
+}
+.f-t{
+    width:  1380px;
+    height:  590px;
+    background-color: black;
+    color:  white;
+    margin-bottom: 0%;
+    margin-top:  10%;
+}
+.container-1{
+    padding-top:  60px;
+}
+.h-1{
+    color:  rgb(237, 205, 205);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-spacing:  10px;
+    padding-right:  20px;
+}
+.btn2{
+    height:  45px;
+    width:  100px;
+    background-color:  white;
+    margin-left:  -10px;
+    border:  2px solid white;
+    font-weight: 600;
+}
+.input{
+    height:  45px;
+    width:  55%;
+    border:  2px solid white;
+    outline:  none;
+    background:  black;
+    color:   white;
+    margin-top:  20px;
+    font-weight: 600;
+}
+.input ::placeholder{
+    color:  white;
+}
+.h-5{
+    padding-top:  100px;
+    padding-bottom:  10px;
+}
+.l-i{
+     margin: 0%;
+     font-size: 14px;
+     font-weight: 500;
+     padding-bottom:  4px;
+     color: rgb(155, 146, 146);
+}
+.ul{
+    text-decoration: none;
+}
+.main-d{
+    height:  400px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: left;
+}
+.span{
+    width:  110px;
+    justify-content: space-evenly;
+    margin-left:  20px;
+    font-size:  16px;
+}
+.last-div-1{
+    margin-left:  10%;
+}
